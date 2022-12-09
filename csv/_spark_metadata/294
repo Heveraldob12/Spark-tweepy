@@ -1,0 +1,3 @@
+v1
+{"path":"file:///home/heveraldo/Documents/Spark/Spark%20tweepy/csv/part-00000-cb7b04a8-76c9-4a2e-a5db-578d85b436b5-c000.csv","size":301,"isDir":false,"modificationTime":1670333202670,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/heveraldo/Documents/Spark/Spark%20tweepy/csv/part-00001-00ac01ad-3964-4686-88c7-af92368c3209-c000.csv","size":575,"isDir":false,"modificationTime":1670333202694,"blockReplication":1,"blockSize":33554432,"action":"add"}

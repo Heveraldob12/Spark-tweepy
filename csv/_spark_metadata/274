@@ -1,0 +1,4 @@
+v1
+{"path":"file:///home/heveraldo/Documents/Spark/Spark%20tweepy/csv/part-00000-4a76d717-9d8f-43e7-b4f1-89f0ea483722-c000.csv","size":792,"isDir":false,"modificationTime":1670333193606,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/heveraldo/Documents/Spark/Spark%20tweepy/csv/part-00001-fc439509-39ae-46ad-80d7-ffe03765881b-c000.csv","size":353,"isDir":false,"modificationTime":1670333193630,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/heveraldo/Documents/Spark/Spark%20tweepy/csv/part-00002-0efda5e4-faa6-4f07-b285-3498c56277cc-c000.csv","size":398,"isDir":false,"modificationTime":1670333193630,"blockReplication":1,"blockSize":33554432,"action":"add"}
