@@ -1,4 +1,4 @@
-# Treino de ORC com Colab -[Alura](https://www.alura.com.br)
+# Treino de Spark -[Alura](https://www.alura.com.br)
 
 Descrição:
 
